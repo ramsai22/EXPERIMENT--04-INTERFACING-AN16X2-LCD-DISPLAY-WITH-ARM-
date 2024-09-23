@@ -197,7 +197,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/user-attachments/assets/ba0cec19-41bc-4367-b2e8-f046fbfe4bb1)
+![WhatsApp Image 2024-09-23 at 14 05 56_3d7c005b](https://github.com/user-attachments/assets/8a3dda18-17f0-4ac8-9bce-c8ae068c1f30)
 
  
 ## Result :
